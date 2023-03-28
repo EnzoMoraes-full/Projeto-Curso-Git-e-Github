@@ -1,2 +1,2 @@
 login e cadastro
-[
+Digite sua idade
